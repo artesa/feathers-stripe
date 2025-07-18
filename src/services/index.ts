@@ -28,4 +28,6 @@ export { TokenService } from "./token";
 export { TransactionService } from "./transaction";
 export { TransferService } from "./transfer";
 export { TransferReversalService } from "./transfer-reversal";
+export { CustomerPortalConfigurationService } from "./customer-portal-configuration";
+export { CustomerPortalSessionService } from "./customer-portal-session";
 export * from "./webhook";
